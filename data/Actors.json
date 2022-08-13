@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"duncan","characterIndex":0,"characterName":"mainactors","classId":1,"equips":[1,13,2,1,0],"faceIndex":1,"faceName":"fighters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Duncan","nickname":"Duncan","note":"<Default Row: 1>","profile":""},
+{"id":2,"battlerName":"diana","characterIndex":1,"characterName":"mainactors","classId":1,"equips":[1,1,2,3,0],"faceIndex":5,"faceName":"fighters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Diana","nickname":"Diana","note":"<Default Row: 1>","profile":""},
+{"id":3,"battlerName":"jenkins","characterIndex":2,"characterName":"mainactors","classId":2,"equips":[2,0,20,19,4],"faceIndex":0,"faceName":"theifs","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jenkins","nickname":"Jenkins","note":"<Default Row: 1>","profile":""},
+{"id":4,"battlerName":"jackie","characterIndex":3,"characterName":"mainactors","classId":2,"equips":[4,0,2,3,4],"faceIndex":5,"faceName":"theifs","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jackie","nickname":"Jackie","note":"<Default Row: 1>","profile":""},
+{"id":5,"battlerName":"arthur","characterIndex":4,"characterName":"mainactors","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"priests","traits":[],"initialLevel":1,"maxLevel":99,"name":"Arthur","nickname":"Arthur","note":"<Default Row: 2>","profile":""},
+{"id":6,"battlerName":"sarah","characterIndex":5,"characterName":"mainactors","classId":4,"equips":[101,0,22,21,0],"faceIndex":5,"faceName":"priests","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sophina","nickname":"Sophina","note":"<Default Row: 2>","profile":""},
+{"id":7,"battlerName":"radjast","characterIndex":6,"characterName":"mainactors","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"mages","traits":[],"initialLevel":1,"maxLevel":99,"name":"Radjast","nickname":"Radjast","note":"<Default Row: 2>","profile":""},
+{"id":8,"battlerName":"amelia","characterIndex":7,"characterName":"mainactors","classId":3,"equips":[26,0,0,100,0],"faceIndex":5,"faceName":"mages","traits":[],"initialLevel":1,"maxLevel":99,"name":"Amelia","nickname":"Amelia","note":"<Default Row: 2>","profile":""},
+{"id":9,"battlerName":"kenny","characterIndex":0,"characterName":"kennyactor","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"othercharacters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kenny","nickname":"Kenny","note":"<Default Row: 1>\n<Restrict Class: 5>","profile":""}
+]

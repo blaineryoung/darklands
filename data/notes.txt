@@ -1,0 +1,18 @@
+\af[3]\n<\an[3]>
+\n<Barmaid>
+\pf[3]\n<\pn[3]>
+
+<Learn Cost: x JP>
+
+<target action>
+perform start
+wait for movement
+motion attack: user
+wait: 10
+attack animation: target
+wait for animation
+action effect
+wait for animation
+wait for movement
+wait: 5
+</target action>
