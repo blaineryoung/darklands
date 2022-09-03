@@ -16,6 +16,8 @@ null,
 {"id":14,"expanded":false,"name":"darkmoor drunk shack","order":14,"parentId":10,"scrollX":1211.5,"scrollY":760},
 {"id":15,"expanded":false,"name":"darkmoor shack 2","order":15,"parentId":10,"scrollX":1211.5,"scrollY":760},
 {"id":16,"expanded":false,"name":"Darkmoor Weapon Shop","order":16,"parentId":10,"scrollX":1211.5,"scrollY":760},
-{"id":17,"expanded":false,"name":"Darkmoor Mines","order":18,"parentId":5,"scrollX":1107.5,"scrollY":2822},
-{"id":18,"expanded":false,"name":"Darkmoor Magic Shop","order":17,"parentId":10,"scrollX":832,"scrollY":640}
+{"id":17,"expanded":false,"name":"Darkmoor Mines","order":20,"parentId":5,"scrollX":1107.5,"scrollY":1142},
+{"id":18,"expanded":false,"name":"Darkmoor Magic Shop","order":17,"parentId":10,"scrollX":832,"scrollY":640},
+{"id":19,"expanded":true,"name":"adventurersguild","order":18,"parentId":10,"scrollX":1115.5,"scrollY":782},
+{"id":20,"expanded":false,"name":"Adventurer's Guild Upstairs","order":19,"parentId":19,"scrollX":1115.5,"scrollY":782}
 ]
