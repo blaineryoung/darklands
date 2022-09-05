@@ -97,7 +97,7 @@ null,
 {"id":95,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1175,"name":"Blank","note":"","params":[5,0,0,10,0,0,0,0],"price":200},
 {"id":96,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1175,"name":"Blank","note":"","params":[5,0,0,10,0,0,0,0],"price":200},
 {"id":97,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1175,"name":"Blank","note":"","params":[5,0,0,10,0,0,0,0],"price":200},
-{"id":98,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1175,"name":"Blank","note":"","params":[5,0,0,10,0,0,0,0],"price":200},
+{"id":98,"atypeId":2,"description":"It's just a hat.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1130,"name":"Pretty Hat","note":"","params":[0,0,0,0,0,0,0,0],"price":200},
 {"id":99,"atypeId":4,"description":"Strangly attractive armor.  Makes you irresistable\nto attack.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":23,"dataId":0,"value":3},{"code":22,"dataId":6,"value":0.1}],"iconIndex":1175,"name":"Flashy Armor","note":"","params":[10,0,0,25,0,0,0,0],"price":800},
 {"id":100,"atypeId":2,"description":"So fancy!","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1198,"name":"Fancy Clothes","note":"","params":[0,1,0,1,1,0,0,0],"price":500}
 ]
